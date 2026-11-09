@@ -1,7 +1,8 @@
 /* ==========================================================================
    AI Orbit · Version 7 "Neural Ember"
    Version 4's monolith layout and motion, with:
-   - a full-width WebGL neural-network hero (violet #A485FF → cyan #3FDCF2),
+   - a full-width WebGL space "Eclipse" hero (space7.js; sub-pages keep the
+     neural network, neural7.js), violet #A485FF → cyan #3FDCF2,
      text kept in front on its own layer with a soft veil;
    - the brand gradient moved to ember #FF5B42 → #EB7F31 (deepened in light
      mode so gradient text keeps AA contrast);

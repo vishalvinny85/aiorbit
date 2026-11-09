@@ -27,7 +27,7 @@
     { v: 4, name: "Version 4", desc: "Monolith — crystal shards, scroll stories, Sora" },
     { v: 5, name: "Version 5", desc: "Clarity — content first, AI agent console, Sora" },
     { v: 6, name: "Version 6", desc: "Signal — neural network hero, Neue Montreal + Jura" },
-    { v: 7, name: "Version 7", desc: "Neural Ember — interactive neural network, ember accents, Sora" },
+    { v: 7, name: "Version 7", desc: "Neural Ember — space eclipse hero, ember accents, Sora" },
   ];
 
   const css = document.createElement("style");

@@ -1,5 +1,5 @@
 /* ==========================================================================
-   AI Orbit · Version 7 mockup "Eclipse" — minimal space banner background.
+   AI Orbit · Version 7 "Eclipse" — minimal space banner background (home hero + CTA).
    One full-screen WebGL fragment shader (no three.js):
    - three layers of sparse, slowly drifting stars (pointer parallax by depth);
    - a dark planet in eclipse with a thin violet→cyan rim and a soft corona;
